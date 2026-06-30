@@ -2,6 +2,11 @@
 
 EduCredit+ is a full-stack MVP that simulates a university-backed smart credit platform for students. It replaces traditional credit history with institutional and behavioral signals such as GPA, attendance, engagement, repayment consistency, and spending responsibility.
 
+## Live Demo
+
+- App: [https://educredit-plus.vercel.app](https://educredit-plus.vercel.app)
+- API health check: [https://educredit-plus.vercel.app/api/health](https://educredit-plus.vercel.app/api/health)
+
 The application includes:
 
 - A student-facing fintech dashboard with dynamic credit, semester repayment, scholarship auto-pay, behavioral insights, and credit graduation readiness
